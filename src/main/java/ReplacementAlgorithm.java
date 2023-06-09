@@ -5,6 +5,8 @@ public abstract class ReplacementAlgorithm
 	
 	// the number of physical page frame
 	protected int pageFrameCount;
+
+	protected int[] referenceString;
 	
 	/**
 	 * @param pageFrameCount - the number of physical page frames

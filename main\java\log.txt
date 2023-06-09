@@ -1,0 +1,46 @@
+-----FIFO-----
+Size of Input String: 10
+Size of Frame: 3
+
+RESULT: 9
+...................
+Size of Input String: 10
+Size of Frame: 3
+
+RESULT: 19
+...................
+Size of Input String: 10
+Size of Frame: 3
+
+RESULT: 28
+...................
+Size of Input String: 15
+Size of Frame: 5
+
+RESULT: 40
+...................
+Size of Input String: 15
+Size of Frame: 5
+
+RESULT: 54
+...................
+Size of Input String: 15
+Size of Frame: 5
+
+RESULT: 65
+...................
+Size of Input String: 20
+Size of Frame: 7
+
+RESULT: 80
+...................
+Size of Input String: 20
+Size of Frame: 7
+
+RESULT: 98
+...................
+Size of Input String: 20
+Size of Frame: 7
+
+RESULT: 115
+...................

@@ -1,0 +1,114 @@
+---------- SIZE 10 ----------
+
+-------- FRAME SIZE 3 --------
+-----FIFO-----
+Faults: 6
+
+-----LRU-----
+Faults: 6
+
+-----OPT-----
+Faults: 6
+
+Winner Is: FIFO With 6 Faults!
+
+-------- FRAME SIZE 5 --------
+-----FIFO-----
+Faults: 7
+
+-----LRU-----
+Faults: 7
+
+-----OPT-----
+Faults: 7
+
+Winner Is: FIFO With 7 Faults!
+
+-------- FRAME SIZE 7 --------
+-----FIFO-----
+Faults: 8
+
+-----LRU-----
+Faults: 8
+
+-----OPT-----
+Faults: 8
+
+Winner Is: FIFO With 8 Faults!
+
+---------- SIZE 15 ----------
+
+-------- FRAME SIZE 3 --------
+-----FIFO-----
+Faults: 12
+
+-----LRU-----
+Faults: 11
+
+-----OPT-----
+Faults: 9
+
+Winner Is: OPT With 9 Faults!
+
+-------- FRAME SIZE 5 --------
+-----FIFO-----
+Faults: 7
+
+-----LRU-----
+Faults: 9
+
+-----OPT-----
+Faults: 6
+
+Winner Is: OPT With 6 Faults!
+
+-------- FRAME SIZE 7 --------
+-----FIFO-----
+Faults: 7
+
+-----LRU-----
+Faults: 7
+
+-----OPT-----
+Faults: 7
+
+Winner Is: FIFO With 7 Faults!
+
+---------- SIZE 20 ----------
+
+-------- FRAME SIZE 3 --------
+-----FIFO-----
+Faults: 15
+
+-----LRU-----
+Faults: 15
+
+-----OPT-----
+Faults: 11
+
+Winner Is: OPT With 11 Faults!
+
+-------- FRAME SIZE 5 --------
+-----FIFO-----
+Faults: 12
+
+-----LRU-----
+Faults: 12
+
+-----OPT-----
+Faults: 10
+
+Winner Is: OPT With 10 Faults!
+
+-------- FRAME SIZE 7 --------
+-----FIFO-----
+Faults: 13
+
+-----LRU-----
+Faults: 12
+
+-----OPT-----
+Faults: 11
+
+Winner Is: OPT With 11 Faults!
+
